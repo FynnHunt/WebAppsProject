@@ -1,0 +1,36 @@
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.deps.json
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.runtimeconfig.json
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.runtimeconfig.dev.json
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.dll
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.pdb
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.csprojResolveAssemblyReference.cache
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.csproj.CoreCompileInputs.cache
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.AssemblyInfoInputs.cache
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.AssemblyInfo.cs
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.dll
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.pdb
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.deps.json
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.runtimeconfig.json
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.runtimeconfig.dev.json
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.dll
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.pdb
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.csprojResolveAssemblyReference.cache
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.csproj.CoreCompileInputs.cache
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.AssemblyInfoInputs.cache
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.AssemblyInfo.cs
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.dll
+\\tawe_dfs\students\8\828438\Documents\Web Development\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.pdb
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.deps.json
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.runtimeconfig.json
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.runtimeconfig.dev.json
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.dll
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\bin\Debug\netcoreapp2.0\WebAppsProject.pdb
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.csprojResolveAssemblyReference.cache
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.csproj.CoreCompileInputs.cache
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.AssemblyInfoInputs.cache
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.AssemblyInfo.cs
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.dll
+C:\Users\fynnh\OneDrive\Documents\CompSci Work\year3\Visual Studio Projects\WebAppsProject2\WebAppsProject\WebAppsProject\obj\Debug\netcoreapp2.0\WebAppsProject.pdb
